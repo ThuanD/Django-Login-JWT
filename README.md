@@ -7,10 +7,10 @@ Note:
 
 
 Run:
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
+- python manage.py makemigrations
+- python manage.py migrate
+- python manage.py runserver
 
 Browser:
 http://127.0.0.1:8000/
--add urls following mysite.urls and login.urls 
+- add urls following mysite.urls and login.urls 
